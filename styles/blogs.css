@@ -2,5 +2,12 @@ div{
 margin: 10px ;
 background-color: aliceblue;
 color: blueviolet;
+padding: 20px;
+
+}
+.hi{
+background-color: antiquewhite;
+margin-bottom: 10px;
+color: blueviolet;
 
 }
